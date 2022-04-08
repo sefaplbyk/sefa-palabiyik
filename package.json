@@ -1,0 +1,29 @@
+{
+  "name": "sefa-palabiyik",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sefa": "echo 'Benim adım Sefa'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Sefa Palabıyık",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.10",
+    "nodemailer": "^6.7.3",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sefap/sefa-palabiyik.git"
+}
+}
